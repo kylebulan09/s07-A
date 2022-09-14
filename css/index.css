@@ -70,7 +70,10 @@ nav .nav, nav .nav-logo {
 	padding: 5px;
 	vertical-align: top;
 	color: white;
-	text-align: center;
+	margin-left: 30px;
+}
+#pre-footer .card p {
+	margin: 0;
 }
 /*end pre-footer section*/
 
